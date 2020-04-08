@@ -1,0 +1,66 @@
+[
+    {
+        "Letter": "italy",
+        "Freq": 7.94	
+    },
+    {
+        "Letter" : "iran",
+        "Freq": 6.11
+    },
+    {
+        "Letter" : "Spain",
+        "Freq": 4.50
+    },
+    {
+        "Letter" : "china",
+        "Freq": 3.98
+    },
+    {
+        "Letter" : "UK",
+        "Freq" : 2.82
+    },
+    {
+        "Letter" : "Netherlands",
+        "Freq" : 2.52
+    },
+    {
+        "Letter" : "France",
+        "Freq" : 2.22
+    },
+    {
+        "Letter" : "US",
+        "Freq" : 1.68
+    },
+    {
+        "Letter" : "Switzerland",
+        "Freq" : 1.00
+    },
+    {
+        "Letter" : "South Korea",
+        "Freq" : 0.97
+    },
+    {
+        "Letter" : "Belgium",
+        "Freq" : 0.80
+    },
+    {
+        "Letter" : "Sweden",
+        "Freq" : 0.59
+    },
+    {
+        "Letter" : "Denmark",
+        "Freq" : 0.39
+    },
+    {
+        "Letter" : "Germany",
+        "Freq" : 0.26
+    },
+    {
+        "Letter" : "Austria",
+        "Freq" : 0.32
+    },
+    {
+        "Letter" : "Norway",
+        "Freq" : 0.21
+    }
+]
